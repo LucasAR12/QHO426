@@ -1,6 +1,6 @@
 from tui import show_data_menu
-from Process import load_csv_data
-from Visual import visualise_data_menu
+from process import load_csv_data
+from visual import visualise_data_menu
 
 def main():
     print("-" * 100)
